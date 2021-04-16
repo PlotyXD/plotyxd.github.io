@@ -1,0 +1,7 @@
+﻿{
+	"name": "PlotyXD",
+	"short_name": "PlotyXD",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape"
+}
